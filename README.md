@@ -2,7 +2,7 @@
 Whatsapp Bot
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Adithyan-Ekm/Ricky_Mwol/master/https://giphy.com/stickers/transparent-itz-me-rickymwol-cdeHoeCdF9qTR9cgtq" alt="ITZ ME RICKYMWOL" />
+  <img src="https://raw.githubusercontent.com/Adithyan-Ekm/Ricky_Mwol/master/https://giphy.com/stickers/https://drive.google.com/file/d/1t3QlXrClTrJjfc-oPvcB5lNc55TwDw5t/view?usp=drivesdk" alt="itz me Ricky Mwol" />
 </h1>
   
 ## Setup
